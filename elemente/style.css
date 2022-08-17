@@ -1,1 +1,17 @@
 
+/*DIV ist ein Blockelement - nichts kann daneben stehen - akzeptiert die weite*/
+
+div{
+    background: red;
+}
+a{
+    background: plum;
+    width: 200px;
+    display: block;
+}
+span {
+    color: rgb(228, 87, 6);
+}
+img{
+    width: 300px;
+}
